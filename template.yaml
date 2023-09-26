@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: ghost-template
+  name: ghost-template-1
   title: Test Ghost template
   description: template for a ghost blog
 spec:
