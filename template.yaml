@@ -6,7 +6,7 @@ metadata:
   title: Test Ghost template
   description: template for a ghost blog
 spec:
-  owner: lambgoat/admin
+  owner: sky-uk-test-org/cec-gigafactory
   type: website
 
   # these are the steps which are rendered in the frontend with the form input
